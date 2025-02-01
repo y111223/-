@@ -1,0 +1,7 @@
+pytz
+Faker
+loguru
+ddddocr==1.5.6
+requests==2.32.3
+fake_headers
+python-telegram-bot
